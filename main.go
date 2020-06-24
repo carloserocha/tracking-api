@@ -3,7 +3,6 @@ package main
 import (
 	"net/http"
 
-	"scraper/correios"
 	"github.com/gorilla/mux"
 	log "github.com/sirupsen/logrus"
 )
